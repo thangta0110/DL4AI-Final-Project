@@ -18,9 +18,6 @@ DL4AI-240205-project/
 │
 ├── notebooks/
 │   ├── Final_project_DL4AI.ipynb           # Main notebook
-│   ├── 01_nasdaq_prediction.ipynb          # Task 1 - NASDAQ prediction
-│   ├── 02_vietnam_prediction.ipynb         # Task 2 - Vietnam prediction
-│   └── ...
 │
 ├── src/
 │   ├── config/
